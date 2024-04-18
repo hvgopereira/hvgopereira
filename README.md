@@ -8,7 +8,9 @@
 
 🚀 Animado para explorar novas tecnologias e conectar com outros entusiastas da programação. Vamos aprender juntos!
 
+<br>
 <section style="display: inline-block; ">
+  <span>Habilidades:</span>
   <img align="center" alt="hugo-ps" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/photoshop/photoshop-original.svg" />
   <img align="center" alt="hugo-Ia" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/illustrator/illustrator-plain.svg" />
   <img align="center" alt="hugo-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
