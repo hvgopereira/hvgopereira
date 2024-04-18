@@ -1,6 +1,6 @@
 ## 👋Olá, eu sou o Hugo!😄
 
-🌱 Estudante de Análise e Desenvolvimento de Sistemas, meu primeiro semestre aos 20 anos.
+🌱 Estudante de Análise e Desenvolvimento de Sistemas, em meu primeiro semestre aos 20 anos.
 
 😎 Desenvolvendo em HTML e CSS. Em breve, estarei me aprofundando no JavaScript e em outras linguagens!
 
