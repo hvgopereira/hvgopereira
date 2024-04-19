@@ -18,7 +18,7 @@
   <img title="Git" align="center" alt="hugo-git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />     
 </section>
 
-####
+##
 
 <hr>
 <section> 
@@ -28,4 +28,4 @@
   <a href="#" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </section>
 
-####
+##
