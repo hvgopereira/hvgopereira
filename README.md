@@ -1,21 +1,21 @@
 ## 👋Olá, eu sou o Hugo!😄
 
-🌱 Estudante de Análise e Desenvolvimento de Sistemas, em meu primeiro semestre aos 20 anos.
+🌱 Estudante de Análise e Desenvolvimento de Sistemas, cursando meu primeiro semestre aos 20 anos.
 
-😎 Desenvolvendo em HTML e CSS. Em breve, estarei me aprofundando no JavaScript e em outras linguagens!
+😎 Desenvolvendo em HTML e CSS. Em breve, estarei me aprofundando em JavaScript e em outras linguagens!
 
 💻 Compartilho minha jornada de aprendizado e projetos em desenvolvimento aqui.
 
-🚀 Animado para explorar novas tecnologias e conectar com outros entusiastas da programação. Vamos aprender juntos!
+🚀 Animado para conhecer novas tecnologias e conectar com outros entusiastas da programação. Vamos aprender juntos!
 
 <br>
 <section style="display: inline-block; ">
   <span>Habilidades:</span>
-  <img align="center" alt="hugo-ps" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/photoshop/photoshop-original.svg" />
-  <img align="center" alt="hugo-Ia" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/illustrator/illustrator-plain.svg" />
-  <img align="center" alt="hugo-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="hugo-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="hugo-git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />     
+  <img title="Adobe Photoshop" align="center" alt="hugo-ps" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/photoshop/photoshop-original.svg" />
+  <img title="Adobe Illustritor" align="center" alt="hugo-Ia" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/illustrator/illustrator-plain.svg" />
+  <img title="Html5" align="center" alt="hugo-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img title="CSS3"align="center" alt="hugo-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img title="Git" align="center" alt="hugo-git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />     
 </section>
 
 ####
