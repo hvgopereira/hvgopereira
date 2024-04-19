@@ -39,4 +39,5 @@
 </section>
 
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=046ee0&height=120section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=047af9&height=120&section=footer" style="margin-top= 100px"/>
+
