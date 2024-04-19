@@ -1,8 +1,8 @@
+<h1>👋Olá, eu sou o Hugo! </h1>
 
-<section>
-    <h1> 👋Olá, eu sou o Hugo! </h1>
-    
-</section>
+
+<!-- <img align="right" style="margin-bottom:100px; object-fit: contain" width=180px src="https://github.com/hvgopereira/hvgopereira/assets/162385532/d2bb5b2a-3d38-4624-8562-b83db7106ad4"/>
+&nbsp;&nbsp;&nbsp; -->
 
  - 🌱 Estudante de Análise e Desenvolvimento de Sistemas, cursando meu primeiro semestre aos 20 anos.
 
@@ -12,20 +12,25 @@
 
  - 🚀 Animado para conhecer novas tecnologias e conectar com outros entusiastas da programação. Vamos aprender juntos!
 
-<br>
+##
+
+<img src="https://github.com/hvgopereira/hvgopereira/assets/162385532/d2bb5b2a-3d38-4624-8562-b83db7106ad4" min-width="400px" max-width="400px" width="400px" align="right" alt="Logo_Hugo_Pereira"/>
+&nbsp;&nbsp;&nbsp;
+
 
 <section style="display: inline-block; ">
-  <strong>Habilidades:</strong>
+  <strong> Habilidades : </strong>
   <img title="Adobe Photoshop" align="center" alt="hugo-ps" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/photoshop/photoshop-original.svg" />
   <img title="Adobe Illustritor" align="center" alt="hugo-Ia" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/illustrator/illustrator-plain.svg" />
   <img title="Html5" align="center" alt="hugo-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img title="CSS3"align="center" alt="hugo-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img title="CSS3" align="center" alt="hugo-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img title="Git" align="center" alt="hugo-git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />     
 </section>
 
-#
 
-### Contato:
+##
+
+<strong> Contato : </strong>
 <section> 
   <a href="https://instagram.com/hugao.zl" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://discord.gg/8EYaeRAq" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
