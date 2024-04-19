@@ -1,4 +1,8 @@
-### 👋Olá, eu sou o Hugo!
+
+<section>
+    <h1> 👋Olá, eu sou o Hugo! </h1>
+    
+</section>
 
  - 🌱 Estudante de Análise e Desenvolvimento de Sistemas, cursando meu primeiro semestre aos 20 anos.
 
@@ -21,6 +25,7 @@
 
 #
 
+### Contato:
 <section> 
   <a href="https://instagram.com/hugao.zl" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://discord.gg/8EYaeRAq" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
