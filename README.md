@@ -14,8 +14,9 @@
 
 ##
 
-<img title="Logo Hugo Pereira" src="https://github.com/hvgopereira/hvgopereira/assets/162385532/d2bb5b2a-3d38-4624-8562-b83db7106ad4" min-width="251px" max-width="250px" width="250px" align="right" alt="Logo Hugo Pereira"/>
-&nbsp;&nbsp;&nbsp;
+<img title="Logo Hugo Pereira" src="https://github.com/hvgopereira/hvgopereira/assets/162385532/180107d8-0fd5-4f6a-8d0f-76191171b2ad" min-width="251px" max-width="250px" width="250px" align="right" alt="Logo Hugo Pereira"/>
+
+
 
 
 <section style="display: inline-block; ">
