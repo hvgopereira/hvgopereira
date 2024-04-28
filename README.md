@@ -41,6 +41,7 @@
   <a href="https://www.linkedin.com/in/hugo-pereira-b961592b5/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </section>
 
+##
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=047af9&height=120&section=footer" style="margin-top= 100px"/>
 
