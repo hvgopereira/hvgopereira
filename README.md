@@ -1,7 +1,6 @@
 
 <h1>👋Olá, eu sou o Hugo! </h1>
 
-##
 <!-- <img align="right" style="margin-bottom:100px; object-fit: contain" width=180px src="https://github.com/hvgopereira/hvgopereira/assets/162385532/d2bb5b2a-3d38-4624-8562-b83db7106ad4"/>
 &nbsp;&nbsp;&nbsp; -->
 
