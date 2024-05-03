@@ -8,7 +8,7 @@
 
  - 😎 Desenvolvendo em HTML e CSS. Em breve, estarei me aprofundando em JavaScript e em outras linguagens!
 
- - 💻 Compartilho minha jornada de aprendizado e projetos em desenvolvimento aqui.
+ - 💻 Compartilho minha jornada de aprendizado e projetos em desenvolvimento aqui
 
  - 🚀 Animado para conhecer novas tecnologias e conectar com outros entusiastas da programação. Vamos aprender juntos!
 
