@@ -1,5 +1,5 @@
 
-<h1>  <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="35px">  Olá, eu sou o Hugo! </h1>
+<h1> <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="35px">  Olá, eu sou o Hugo! </h1>
 
 <!-- <img align="right" style="margin-bottom:100px; object-fit: contain" width=180px src="https://github.com/hvgopereira/hvgopereira/assets/162385532/d2bb5b2a-3d38-4624-8562-b83db7106ad4"/>
 &nbsp;&nbsp;&nbsp; -->
@@ -8,7 +8,7 @@
 
  - 😎 Desenvolvendo em HTML e CSS. Em breve, estarei me aprofundando em JavaScript e em outras linguagens!
 
- - 💻 Compartilho minha jornada de aprendizado e projetos em desenvolvimento aqui. 
+ - 💻 Compartilho minha jornada de aprendizado e projetos em desenvolvimento aqui.
 
  - 🚀 Animado para conhecer novas tecnologias e conectar com outros entusiastas da programação. Vamos aprender juntos!
 
