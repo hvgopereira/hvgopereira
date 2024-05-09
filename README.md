@@ -28,7 +28,6 @@
   <img title="Git" align="center" alt="hugo-git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />     
 </section>
 
-
 ##
 
 <strong> Contato : </strong>
