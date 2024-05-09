@@ -19,7 +19,6 @@
 
 
 
-
 <section style="display: inline-block; ">
   <strong> Habilidades : </strong>
   <img title="Adobe Photoshop" align="center" alt="hugo-ps" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/photoshop/photoshop-original.svg" />
