@@ -21,7 +21,7 @@
 
 
 <section style="display: inline-block; ">
-  <strong> Habilidades : </strong>
+  <strong> Habilidades :</strong>
   <img title="Adobe Photoshop" align="center" alt="hugo-ps" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/photoshop/photoshop-original.svg" />
   <img title="Adobe Illustrator" align="center" alt="hugo-ia" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/illustrator/illustrator-plain.svg" />
   <img title="Adobe XD" align="center" alt="hugo-xd" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/xd/xd-original.svg">
@@ -33,7 +33,7 @@
 
 ##
 
-<strong>Contato :</strong>
+<strong> Contato : </strong>
 <section> 
   <a href="https://instagram.com/hugao.zl" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://discord.gg/8EYaeRAq" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
