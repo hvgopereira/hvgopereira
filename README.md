@@ -4,13 +4,13 @@
 <!-- <img align="right" style="margin-bottom:100px; object-fit: contain" width=180px src="https://github.com/hvgopereira/hvgopereira/assets/162385532/d2bb5b2a-3d38-4624-8562-b83db7106ad4"/>
 &nbsp;&nbsp;&nbsp; -->
 
- - 🌱 Estudante de Análise e Desenvolvimento de Sistemas, cursando meu primeiro semestre aos 20 anos.
+ - 🌱 Estudante de Análise e Desenvolvimento de Sistemas, cursando meu primeiro semestre aos 20 anos;
 
- - 😎 Desenvolvendo em HTML e CSS. Em breve, estarei me aprofundando em JavaScript e em outras linguagens!
+ - 😎 Desenvolvendo em HTML e CSS. Em breve, estarei me aprofundando em JavaScript e em outras linguagens;
 
- - 💻 Compartilho minha jornada de aprendizado e projetos em desenvolvimento aqui.
+ - 💻 Compartilho minha jornada de aprendizado e projetos em desenvolvimento aqui;
 
- - 🚀 Animado para conhecer novas tecnologias e conectar com outros entusiastas da programação. Vamos aprender juntos!
+ - 🚀 Animado para conhecer novas tecnologias e conectar com outros entusiastas da programação. Vamos aprender juntos.
 
 ##
 <br>
