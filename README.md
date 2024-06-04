@@ -1,6 +1,5 @@
 
-<h1> <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="35px"> Olá, eu sou o Hugo! </h1>
-
+<h1> <img src="https://github.com/hvgopereira/hvgopereira/assets/162385532/6545a499-29ce-4ef4-b332-378462caa2a1" height="35px"> Olá, eu sou o Hugo! </h1>
 
  - 🌱 Estudante de Análise e Desenvolvimento de Sistemas (1º semestre) na UBC - Mogi das Cruzes.
 
