@@ -32,7 +32,7 @@
   <a target href="https://discord.gg/gvzwyFMqNx" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank" height="28" width="100"  ></a> 
   <a title="hugopereira.contato@gmail.com" target href="mailto:hugopereira.contato@gmail.com"><img src="https://img.shields.io/badge/-gmail-9c0000?logo=gmail&logoColor=white&style=for-the-badge" target="_blank" height="28" width="100" ></a>
   <a href="https://www.linkedin.com/in/hugo-pereira-b961592b5/" target="_blank" height="28" width="90" ><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" height="28" width="100"></a> 
-  <a target target="_blank href="https://x.com/hvgopereira"><img src="https://img.shields.io/badge/-twitter-000000?logo=x&logoColor=white&style=for-the-badge"height="28" width="100"></img></a>
+  <a target="_blank" href="https://x.com/hvgopereira"><img src="https://img.shields.io/badge/-twitter-000000?logo=x&logoColor=white&style=for-the-badge"height="28" width="100"></img></a>
 </div>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=047af9&height=120&section=footer"/>
