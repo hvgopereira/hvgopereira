@@ -7,7 +7,6 @@
 
  - 💻 Compartilho minha jornada de aprendizado e projetos em desenvolvimento aqui;
 
- - 🚀 Animado para conhecer novas tecnologias e conectar com outros entusiastas da programação.
 
 ##
 
