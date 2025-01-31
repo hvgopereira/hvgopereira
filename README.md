@@ -1,5 +1,5 @@
 
-<h1> <img src="https://github.com/hvgopereira/hvgopereira/assets/162385532/6545a499-29ce-4ef4-b332-378462caa2a1" height="35px"> Olá, eu sou o<img width="100px" align="center" src="https://github.com/user-attachments/assets/e71221cb-4cb7-4e4d-8223-837c0e034368"></img> <img src="https://github.com/user-attachments/assets/16497c1e-4e55-4910-9a89-d49b4a64d35a" align="right" width="70px"> </img>
+<h1> <img src="https://github.com/hvgopereira/hvgopereira/assets/162385532/6545a499-29ce-4ef4-b332-378462caa2a1" height="35px"> Olá, eu sou o<img width="100px" align="center" min-width="100px" src="https://github.com/user-attachments/assets/e71221cb-4cb7-4e4d-8223-837c0e034368"></img> <img src="https://github.com/user-attachments/assets/16497c1e-4e55-4910-9a89-d49b4a64d35a" align="right" width="70px"> </img>
 </div></h1>
 
 
