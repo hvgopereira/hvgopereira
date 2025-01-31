@@ -1,7 +1,7 @@
 
 <h1> <img src="https://github.com/hvgopereira/hvgopereira/assets/162385532/6545a499-29ce-4ef4-b332-378462caa2a1" height="35px"> Olá, eu sou o Hugo! </h1>
 
- - 🌱 Estudante de Análise e Desenvolvimento de Sistemas (2º semestre) na UBC - Mogi das Cruzes.
+ - 🌱 Estudante de Análise e Desenvolvimento de Sistemas (3º semestre) na UBC - Mogi das Cruzes.
 
  - 😎 Desenvolvendo com HTML e CSS, e atualmente estudando JavaScript.
 
