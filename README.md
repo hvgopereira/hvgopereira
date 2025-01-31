@@ -1,29 +1,24 @@
 
 <h1> <img src="https://github.com/hvgopereira/hvgopereira/assets/162385532/6545a499-29ce-4ef4-b332-378462caa2a1" height="35px"> Olá, eu sou o Hugo! </h1>
 
- - 🌱 Estudante de Análise e Desenvolvimento de Sistemas (3º semestre) na UBC - Mogi das Cruzes.
+<img src="https://github.com/user-attachments/assets/16497c1e-4e55-4910-9a89-d49b4a64d35a" align="right" width="120px"> </img>
 
- - 😎 Desenvolvendo com HTML e CSS, e atualmente estudando JavaScript.
+
+ - 🌱 Estudante de Análise e Desenvolvimento de Sistemas (3º semestre) na UBC - Mogi das Cruzes.
 
  - 💻 Compartilho minha jornada de aprendizado e projetos em desenvolvimento aqui;
 
-
 ##
 
-<br>
 
 <img title="Logo Hugo Pereira" src="https://github.com/hvgopereira/hvgopereira/assets/162385532/180107d8-0fd5-4f6a-8d0f-76191171b2ad" min-width="251px" max-width="250px" width="250px" align="right" alt="Logo Hugo Pereira"/>
 
-<section style="display: inline-block; ">
-  <strong> Habilidades : </strong>
-  <img title="Adobe Photoshop" align="center" alt="hugo-ps" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/photoshop/photoshop-original.svg" />
-  <img title="Adobe Illustrator" align="center" alt="hugo-ia" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/illustrator/illustrator-plain.svg" />
-  <img title="Adobe XD" align="center" alt="hugo-xd" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/xd/xd-original.svg">
-  <img title="HTML5" align="center" alt="hugo-html" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img title="CSS3" align="center" alt="hugo-css" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img title="JavaScript" align="center" alt="hugo-js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg">
-  <img title="Git" align="center" alt="hugo-git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />     
-</section>
+ <strong> Habilidades : </strong>
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,javascript,git,c,photoshop,illustrator,xd,figma," />
+  </a>
+</p>
 
 ##
 
