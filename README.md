@@ -1,7 +1,7 @@
 
-<h1> <img src="https://github.com/hvgopereira/hvgopereira/assets/162385532/6545a499-29ce-4ef4-b332-378462caa2a1" height="35px"> Olá, eu sou o Hugo! </h1>
+<h1> <img src="https://github.com/hvgopereira/hvgopereira/assets/162385532/6545a499-29ce-4ef4-b332-378462caa2a1" height="35px"> Olá, eu sou o<img width="100px" align="center" src="https://github.com/user-attachments/assets/e71221cb-4cb7-4e4d-8223-837c0e034368"></img> <img src="https://github.com/user-attachments/assets/16497c1e-4e55-4910-9a89-d49b4a64d35a" align="right" width="70px"> </img>
+</div></h1>
 
-<img src="https://github.com/user-attachments/assets/16497c1e-4e55-4910-9a89-d49b4a64d35a" align="right" width="120px"> </img>
 
 
  - 🌱 Estudante de Análise e Desenvolvimento de Sistemas (3º semestre) na UBC - Mogi das Cruzes.
@@ -9,7 +9,6 @@
  - 💻 Compartilho minha jornada de aprendizado e projetos em desenvolvimento aqui;
 
 ##
-
 
 <img title="Logo Hugo Pereira" src="https://github.com/hvgopereira/hvgopereira/assets/162385532/180107d8-0fd5-4f6a-8d0f-76191171b2ad" min-width="251px" max-width="250px" width="250px" align="right" alt="Logo Hugo Pereira"/>
 
