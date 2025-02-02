@@ -13,6 +13,8 @@ Desenvolvedor **Front-End** de 21 anos, atualmente estudando C++ e buscando se t
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" alt="Hammer and Wrench" width="30" height="30" /> **Linguagens e Ferramentas:**  
    <img src="https://skillicons.dev/icons?i=html,css,javascript,git,c,ts,vscode,photoshop,illustrator,xd,figma," />
 
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=047af9&height=120&section=footer"/>
+
 <!--<strong> Contato : </strong>
 <div> 
   <a target href="https://discord.gg/gvzwyFMqNx" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank" height="28" width="100"  ></a> 
