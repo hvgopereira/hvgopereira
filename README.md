@@ -1,5 +1,6 @@
 
-# Olá, eu sou o Hugo  <img src="https://user-images.githubusercontent.com/72663882/171687151-bb31c996-c9d2-49c8-b593-734946893b23.gif" alt="waving hand gif" aria-hidden="true" width="40" />
+# <img title="Logo Hugo Pereira" src="https://github.com/hvgopereira/hvgopereira/assets/162385532/180107d8-0fd5-4f6a-8d0f-76191171b2ad" align="center" min-width="60" max-width="60px" width="60px" alt="Logo Hugo Pereira"/> Olá, eu sou o Hugo <img src="https://user-images.githubusercontent.com/72663882/171687151-bb31c996-c9d2-49c8-b593-734946893b23.gif" alt="waving hand gif" aria-hidden="true" width="40"/>
+
 <img src="https://github.com/user-attachments/assets/16497c1e-4e55-4910-9a89-d49b4a64d35a" align="right" width="80px"> </img>
 
 Desenvolvedor **Front-End** de 21 anos, atualmente estudando C++ e buscando se tornar **Full Stack.** Cursando o 3º semestre de ADS na Universidade Braz Cubas, em Mogi das Cruzes.
@@ -8,7 +9,6 @@ Desenvolvedor **Front-End** de 21 anos, atualmente estudando C++ e buscando se t
 - **NOTA** : Você pode fazer um **fork** e **contribuir** para qualquer projeto <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Handshake.png" alt="Handshake" width="25" height="25" align="center" />
 
 
-<img title="Logo Hugo Pereira" src="https://github.com/hvgopereira/hvgopereira/assets/162385532/180107d8-0fd5-4f6a-8d0f-76191171b2ad" align="right" min-width="251px" max-width="250px" width="250px" align="right" alt="Logo Hugo Pereira"/>
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" alt="Hammer and Wrench" width="30" height="30" /> **Linguagens e Ferramentas:**  
    <img src="https://skillicons.dev/icons?i=html,css,javascript,git,c,ts,vscode,photoshop,illustrator,xd,figma," />
