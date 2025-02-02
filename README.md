@@ -1,27 +1,19 @@
 
-<h1> <img src="https://github.com/hvgopereira/hvgopereira/assets/162385532/6545a499-29ce-4ef4-b332-378462caa2a1" height="35px"> Olá, eu sou o<img width="100px" align="center" min-width="100px" src="https://github.com/user-attachments/assets/e71221cb-4cb7-4e4d-8223-837c0e034368"></img> <img src="https://github.com/user-attachments/assets/16497c1e-4e55-4910-9a89-d49b4a64d35a" align="right" width="70px"> </img>
-</div></h1>
+# Olá, eu sou o Hugo  <img src="https://user-images.githubusercontent.com/72663882/171687151-bb31c996-c9d2-49c8-b593-734946893b23.gif" alt="waving hand gif" aria-hidden="true" width="40" />
+<img src="https://github.com/user-attachments/assets/16497c1e-4e55-4910-9a89-d49b4a64d35a" align="right" width="80px"> </img>
+
+Desenvolvedor **Front-End** de 21 anos, atualmente estudando C++ e buscando se tornar **Full Stack.** Cursando o 3º semestre de ADS na Universidade Braz Cubas, em Mogi das Cruzes.
+- Disponível para colaboração em projetos
+- Você pode me encontrar em: &nbsp; <a href="mailto:hugopereira.contato@gmail.com" title="hugopereira.contao@gmail.com"><img alt="Email" margin-left="20px" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="30" align="center"/></a> &nbsp; <a href="https://www.linkedin.com/in/hugo-pereira-developer/"><img alt="LinkedIn" title="LinkedIn" src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="30" align="center" /></a> 
+- **NOTA** : Você pode fazer um **fork** e **contribuir** para qualquer projeto <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Handshake.png" alt="Handshake" width="25" height="25" align="center" />
 
 
+<img title="Logo Hugo Pereira" src="https://github.com/hvgopereira/hvgopereira/assets/162385532/180107d8-0fd5-4f6a-8d0f-76191171b2ad" align="right" min-width="251px" max-width="250px" width="250px" align="right" alt="Logo Hugo Pereira"/>
 
- - 🌱 Estudante de Análise e Desenvolvimento de Sistemas (3º semestre) na UBC - Mogi das Cruzes.
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" alt="Hammer and Wrench" width="30" height="30" /> **Linguagens e Ferramentas:**  
+   <img src="https://skillicons.dev/icons?i=html,css,javascript,git,c,ts,vscode,photoshop,illustrator,xd,figma," />
 
- - 💻 Compartilho minha jornada de aprendizado e projetos em desenvolvimento aqui;
-
-##
-
-<img title="Logo Hugo Pereira" src="https://github.com/hvgopereira/hvgopereira/assets/162385532/180107d8-0fd5-4f6a-8d0f-76191171b2ad" min-width="251px" max-width="250px" width="250px" align="right" alt="Logo Hugo Pereira"/>
-
- <strong> Habilidades : </strong>
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,javascript,git,c,photoshop,illustrator,xd,figma," />
-  </a>
-</p>
-
-##
-
-<strong> Contato : </strong>
+<!--<strong> Contato : </strong>
 <div> 
   <a target href="https://discord.gg/gvzwyFMqNx" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank" height="28" width="100"  ></a> 
   <a title="hugopereira.contato@gmail.com" target href="mailto:hugopereira.contato@gmail.com"><img src="https://img.shields.io/badge/-gmail-9c0000?logo=gmail&logoColor=white&style=for-the-badge" target="_blank" height="28" width="100" ></a>
