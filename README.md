@@ -3,7 +3,7 @@
 
 <img src="https://github.com/user-attachments/assets/16497c1e-4e55-4910-9a89-d49b4a64d35a" align="right" width="80px"> </img>
 
-Desenvolvedor **Front-End** de 21 anos, atualmente estudando C++ e buscando se tornar **Full Stack.** Cursando o 3º semestre de ADS na Universidade Braz Cubas, em Mogi das Cruzes.
+Desenvolvedor **Front-End** de 21 anos, atualmente estudando C++ e buscando se tornar **Full Stack.** Cursando o 3º semestre de ADS na Universidade Braz Cubas, em Mogi das Cruzes, SP.
 - Disponível para colaboração em projetos
 - Você pode me encontrar em: &nbsp; <a href="mailto:hugopereira.contato@gmail.com" title="hugopereira.contato@gmail.com"><img alt="Email" margin-left="20px" src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white" height="25" align="center"/></a> &nbsp; <a href="https://www.linkedin.com/in/hugo-pereira-developer/"><img alt="LinkedIn" title="LinkedIn" src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff" height="25" align="center" /></a> 
 - **NOTA** : Você pode fazer um **fork** e **contribuir** para qualquer projeto <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Handshake.png" alt="Handshake" width="25" height="25" align="center" />
