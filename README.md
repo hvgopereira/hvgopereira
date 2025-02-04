@@ -10,7 +10,7 @@ Desenvolvedor **Front-End** de 21 anos, atualmente estudando C++ e buscando se t
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Technologist.png" alt="Technologist" width="30" height="30" /> Meus últimos projetos: 
 
- 1. [CRUD (Em Desenvolvimento)](crud-aula-psi.vercel.app)  Obs: feito em php, o link fará o download.
+ 1. [CRUD](crud-aula-psi.vercel.app)  Obs: feito em php, o link fará o download.
  2. [MogiEco](https://mogi-eco.vercel.app/pages/start-screen.html)
  3. [LunaCode](lunacode-three.vercel.app)
 
