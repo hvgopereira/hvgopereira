@@ -12,7 +12,7 @@ Desenvolvedor **Front-End** de 21 anos, atualmente estudando C++ e buscando se t
 
  1. [CRUD](crud-aula-psi.vercel.app)  Obs: feito em php, o link fará o download.
  2. [MogiEco](https://mogi-eco.vercel.app/pages/start-screen.html)
- 3. [LunaCode](lunacode-three.vercel.app)
+ 3. [LunaCode](https://lunacode-three.vercel.app/)
 
 
 
