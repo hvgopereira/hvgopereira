@@ -1,10 +1,13 @@
-
 <img src="https://github.com/user-attachments/assets/16497c1e-4e55-4910-9a89-d49b4a64d35a" align="right" width="80px"> </img>
+<img src="https://github.com/user-attachments/assets/d94d1fb6-f541-46fd-a19a-68d36a930d67" align="right" width="60px"> </img>
+<img title="fenix_sprite_by_hugo" width="90px" height="100px" align="right" src="https://github.com/user-attachments/assets/de528367-a21f-4196-a440-59dfdb6e7776"> </img>
+
+
+
 # <img title="Logo Hugo Pereira" src="https://github.com/hvgopereira/hvgopereira/assets/162385532/180107d8-0fd5-4f6a-8d0f-76191171b2ad" align="center" min-width="60" max-width="60px" width="60px" alt="Logo Hugo Pereira"/> Olá, eu sou o Hugo  <img src="https://user-images.githubusercontent.com/72663882/171687151-bb31c996-c9d2-49c8-b593-734946893b23.gif" alt="waving hand gif" aria-hidden="true" width="40"/>
 
 
 Desenvolvedor **Front-End** de 21 anos, atualmente estudando C++ e buscando se tornar **Full Stack.** Cursando o 3º semestre de ADS na Universidade Braz Cubas, em Mogi das Cruzes, SP.
-<img src="https://github.com/user-attachments/assets/d94d1fb6-f541-46fd-a19a-68d36a930d67" align="right" width="70px"> </img>
 
 - Disponível para colaboração em projetos
 - Você pode me encontrar em: &nbsp; <a href="mailto:hugopereira.contato@gmail.com" title="hugopereira.contato@gmail.com"><img alt="Email" margin-left="20px" src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white" height="25" align="center"/></a> &nbsp; <a href="https://www.linkedin.com/in/hugo-pereira-developer/"><img alt="LinkedIn" title="LinkedIn" src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff" height="25" align="center" /></a> 
@@ -12,7 +15,6 @@ Desenvolvedor **Front-End** de 21 anos, atualmente estudando C++ e buscando se t
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Technologist.png" alt="Technologist" width="30" height="30" /> Meus últimos projetos: 
 
-<img title="fenix_sprite_by_hugo" width="100px" height="110px" align="right" src="https://github.com/user-attachments/assets/de528367-a21f-4196-a440-59dfdb6e7776"> </img>
 
  1. [Meu Portfólio](https://my-portfolio-9a23.onrender.com/) (40%) 🛠️
  2. [CRUD](crud-aula-psi.vercel.app)  Obs: feito em php, o link fará o download.
