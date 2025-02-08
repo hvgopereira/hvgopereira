@@ -1,8 +1,7 @@
 <img src="https://github.com/user-attachments/assets/16497c1e-4e55-4910-9a89-d49b4a64d35a" align="right" width="80px"> </img>
 <img src="https://github.com/user-attachments/assets/d94d1fb6-f541-46fd-a19a-68d36a930d67" align="right" width="60px"> </img>
 <img title="fenix_sprite_by_hugo" width="90px" height="100px" align="right" src="https://github.com/user-attachments/assets/de528367-a21f-4196-a440-59dfdb6e7776"> </img>
-
-
+ 
 
 # <img title="Logo Hugo Pereira" src="https://github.com/hvgopereira/hvgopereira/assets/162385532/180107d8-0fd5-4f6a-8d0f-76191171b2ad" align="center" min-width="60" max-width="60px" width="60px" alt="Logo Hugo Pereira"/> Olá, eu sou o Hugo  <img src="https://user-images.githubusercontent.com/72663882/171687151-bb31c996-c9d2-49c8-b593-734946893b23.gif" alt="waving hand gif" aria-hidden="true" width="40"/>
 
