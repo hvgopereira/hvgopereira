@@ -2,9 +2,10 @@
 <img src="https://github.com/user-attachments/assets/16497c1e-4e55-4910-9a89-d49b4a64d35a" align="right" width="80px"> </img>
 # <img title="Logo Hugo Pereira" src="https://github.com/hvgopereira/hvgopereira/assets/162385532/180107d8-0fd5-4f6a-8d0f-76191171b2ad" align="center" min-width="60" max-width="60px" width="60px" alt="Logo Hugo Pereira"/> Olá, eu sou o Hugo  <img src="https://user-images.githubusercontent.com/72663882/171687151-bb31c996-c9d2-49c8-b593-734946893b23.gif" alt="waving hand gif" aria-hidden="true" width="40"/>
 
-<img src="https://github.com/user-attachments/assets/d94d1fb6-f541-46fd-a19a-68d36a930d67" align="right" width="70px"> </img>
 
 Desenvolvedor **Front-End** de 21 anos, atualmente estudando C++ e buscando se tornar **Full Stack.** Cursando o 3º semestre de ADS na Universidade Braz Cubas, em Mogi das Cruzes, SP.
+<img src="https://github.com/user-attachments/assets/d94d1fb6-f541-46fd-a19a-68d36a930d67" align="right" width="70px"> </img>
+
 - Disponível para colaboração em projetos
 - Você pode me encontrar em: &nbsp; <a href="mailto:hugopereira.contato@gmail.com" title="hugopereira.contato@gmail.com"><img alt="Email" margin-left="20px" src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white" height="25" align="center"/></a> &nbsp; <a href="https://www.linkedin.com/in/hugo-pereira-developer/"><img alt="LinkedIn" title="LinkedIn" src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff" height="25" align="center" /></a> 
 - **NOTA** : Você pode fazer um **fork** e **contribuir** para qualquer projeto <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Handshake.png" alt="Handshake" width="25" height="25" align="center" />
